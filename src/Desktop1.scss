@@ -1,0 +1,232 @@
+.desktop1 {
+  background-color: rgb(180, 103, 103);
+  padding: 0 0 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperOne {
+  margin-bottom: 38px;
+  position: relative;
+}
+
+.backgroundBase {
+  position: relative;
+}
+
+.goodMorningUserNameRightNowItI {
+  height: 48px;
+  width: 723px;
+  //@include red-rose-30-regular;
+  color: white;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 356px;
+  top: 180px;
+}
+.dateInfo {
+  height: 115px;
+  width: 966px;
+ // @include red-rose-72-bold;
+  color: white;
+  display: flex;
+  position: absolute;
+  right: 186px;
+  top: 36px;
+}
+.num390 {
+  height: 195px;
+  width: 401px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  right: 510px;
+  bottom: 163px;
+  //@include red-rose-200-regular;
+  color: white;
+}
+.num390Emphasis2 {
+//  @include raleway-170-bold;
+  color: white;
+}
+.location {
+  height: 67px;
+  width: 608px;
+//  @include red-rose-60-bold;
+  color: white;
+  display: flex;
+  position: absolute;
+  left: 44px;
+  bottom: 28px;
+}
+.h440L330 {
+  height: 112px;
+  width: 208px;
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: 56px;
+  bottom: 14px;
+ // @include red-rose-45-bold;
+  color: white;
+}
+.h440L330Emphasis2 {
+ // @include raleway-45-bold;
+  color: white;
+}
+.weekHeader {
+  height: 64px;
+  width: 493px;
+ // @include red-rose-60-bold;
+  color: black;
+  display: flex;
+  margin-bottom: 19px;
+  margin-left: 54px;
+}
+.divider {
+  width: 326px;
+  height: 4px;
+  background-color: black;
+  margin-bottom: 34px;
+  margin-left: 53px;
+}
+.flexWrapperTwo {
+  padding: 0 0 0 53px;
+  display: flex;
+  align-items: flex-start;
+}
+.relativeWrapperThree {
+  position: relative;
+  &:not(:last-of-type) {
+    margin-right: 9px;
+  }
+}
+.h550L490 {
+  height: 91px;
+  width: 117px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 19px;
+  bottom: -44px;
+  //@include red-rose-30-bold;
+  color: black;
+}
+.h550L490Emphasis2 {
+ // @include raleway-30-bold;
+  color: black;
+}
+.tuesBox {
+  height: 126px;
+  width: 213px;
+  //@include red-rose-35-bold;
+  color: black;
+  display: flex;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  position: relative;
+}
+.relativeWrapperOne {
+  margin-right: 43px;
+  position: relative;
+}
+.h560L490 {
+  height: 91px;
+  width: 117px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 45px;
+  bottom: -44px;
+ // @include red-rose-30-bold;
+  color: black;
+}
+.wedBox {
+  height: 126px;
+  width: 239px;
+ // @include red-rose-35-bold;
+  color: black;
+  display: flex;
+  position: relative;
+}
+.relativeWrapperTwo {
+  margin-right: 50px;
+  position: relative;
+}
+.h570L490 {
+  height: 91px;
+  width: 117px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 27px;
+  bottom: -44px;
+  // @include red-rose-30-bold;
+  color: black;
+}
+.thursBox {
+  height: 126px;
+  width: 214px;
+  // @include red-rose-35-bold;
+  color: black;
+  display: flex;
+  position: relative;
+}
+.relativeWrapperFour {
+  margin-right: 27px;
+  position: relative;
+}
+.h570L460 {
+  height: 91px;
+  width: 117px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  bottom: -44px;
+  // @include red-rose-30-bold;
+  color: black;
+}
+.friBox {
+  height: 126px;
+  width: 170px;
+  // @include red-rose-35-bold;
+  color: black;
+  display: flex;
+  position: relative;
+}
+.relativeWrapperFive {
+  margin-right: 28px;
+  position: relative;
+}
+.satBox {
+  height: 126px;
+  width: 213px;
+  // @include red-rose-35-bold;
+  color: black;
+  display: flex;
+  position: relative;
+}
+.h600L470 {
+  height: 91px;
+  width: 117px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 7px;
+  bottom: -44px;
+  // @include red-rose-30-bold;
+  color: black;
+  & .h550L490Emphasis2 {
+    // @include raleway-30-bold;
+    color: black;
+  }
+}
+.sunBox {
+  height: 126px;
+  width: 181px;
+  // @include red-rose-35-bold;
+  color: black;
+  display: flex;
+  position: relative;
+}
