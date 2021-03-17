@@ -6,7 +6,7 @@ import React from "react";
 //import { BackgroundBase } from "./BackgroundBase.png";
 import styles from "./Desktop1.scss";
 
-var backgroundBase = require("./BackgroundBase.png")
+//var backgroundBase = require("./BackgroundBase.png")
 const Desktop1 = ({
   h600l470 = (
     <>
