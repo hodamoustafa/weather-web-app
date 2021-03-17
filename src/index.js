@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Desktop1 from "../src/Desktop1"
+
 
 ReactDOM.render(
   <React.StrictMode>
@@ -12,13 +12,6 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// const HomePage = () => (
-  
-//     <App />
-  
-
-// )
-// export default HomePage
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
